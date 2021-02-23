@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">miniFlix</string>
+    <string name="app_name" translatable="false">miniFlix</string>
+    <string name="popular" translatable="false">Popular</string>
+    <string name="most_popular_movies" translatable="false">Most popular movies</string>
+    <string name="error_fetch_movies" translatable="false">Please check your internet connection</string>
+    <string name="top_rated" translatable="false">Top Rated</string>
+    <string name="highest_rated_movies" translatable="false">Highest rated movies of all time</string>
+    <string name="upcoming" translatable="false">Upcoming</string>
+    <string name="stay_updated" translatable="false">Stay updated with the latest movies</string>
 </resources>
